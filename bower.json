@@ -1,0 +1,21 @@
+{
+  "name": "jquery-checkboxes",
+  "homepage": "https://github.com/SamWM/jquery-checkboxes",
+  "authors": [
+    "SamWM <sam.collett@gmail.com>"
+  ],
+  "description": "jQuery plugins for easier manipulation of checkbox values",
+  "main": "jquery.checkboxes.js",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": ">=1.6"
+  }
+}
